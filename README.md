@@ -54,8 +54,5 @@ Google Earth Engine | Sentinel-2 | Spectral Indexing
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shalemrsju4092004&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shalemrsju4092004&theme=tokyonight)
 
